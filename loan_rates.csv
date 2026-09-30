@@ -1,0 +1,28 @@
+Bank,Loan_Category,Product_Name,Min_Rate,Max_Rate,Benchmark_Linked,Processing_Fee_Percentage,Processing_Fee_Min,Processing_Fee_Max,Min_Tenure_Years,Max_Tenure_Years,Effective_Date,Last_Updated,Source_URL
+State Bank of India,Home Loan,SBI Regular Home Loan,8.50,9.65,EBR / EBLR,0.35,2000,10000,1,30,2024-05-01,September 2024,https://sbi.co.in/web/personal-banking/loans/home-loans
+State Bank of India,Personal Loan,SBI Xpress Credit Personal Loan,10.60,13.90,EBLR,1.00,1000,15000,1,6,2024-05-01,September 2024,https://sbi.co.in/web/personal-banking/loans/personal-loans/xpress-credit
+State Bank of India,Auto Loan,SBI New Car Loan Scheme,8.65,9.50,EBLR,0.00,0,0,1,7,2024-05-01,September 2024,https://sbi.co.in/web/personal-banking/loans/auto-loans
+State Bank of India,Education Loan,SBI Student Loan Scheme,10.15,11.15,EBLR,0.00,0,10000,1,15,2024-05-01,September 2024,https://sbi.co.in/web/personal-banking/loans/education-loans
+HDFC Bank,Home Loan,HDFC Standard Home Loan,8.70,9.80,Policy Repo Rate,0.50,3000,15000,1,30,2024-06-01,September 2024,https://www.hdfcbank.com/personal/borrow/popular-loans/home-loan
+HDFC Bank,Personal Loan,HDFC Express Personal Loan,10.75,16.00,Fixed / Floating,1.50,2500,25000,1,5,2024-06-01,September 2024,https://www.hdfcbank.com/personal/borrow/popular-loans/personal-loan
+HDFC Bank,Auto Loan,HDFC Custom-Fit Car Loan,8.75,10.25,Fixed,0.50,2500,10000,1,7,2024-06-01,September 2024,https://www.hdfcbank.com/personal/borrow/popular-loans/car-loan
+HDFC Bank,Education Loan,HDFC Credila Education Loan,9.50,13.25,Floating,1.00,5000,20000,1,14,2024-06-01,September 2024,https://www.hdfccredila.com/
+ICICI Bank,Home Loan,ICICI Instant Home Loan,8.75,9.75,I-EBLR,0.50,3000,15000,1,30,2024-06-01,September 2024,https://www.icicibank.com/personal-banking/loans/home-loan
+ICICI Bank,Personal Loan,ICICI Pre-approved Personal Loan,10.80,16.25,Fixed,1.50,2000,20000,1,6,2024-06-01,September 2024,https://www.icicibank.com/personal-banking/loans/personal-loan
+ICICI Bank,Auto Loan,ICICI Dream Car Loan,8.85,10.00,Fixed,0.50,2000,8500,1,7,2024-06-01,September 2024,https://www.icicibank.com/personal-banking/loans/car-loan
+ICICI Bank,Education Loan,ICICI Aspire Education Loan,9.75,12.50,I-EBLR,1.00,3000,15000,1,12,2024-06-01,September 2024,https://www.icicibank.com/personal-banking/loans/education-loan
+Axis Bank,Home Loan,Axis Shubh Aarambh Home Loan,8.75,9.85,Repo Linked (RLLR),0.50,2500,10000,1,30,2024-06-01,September 2024,https://www.axisbank.com/retail/loans/home-loan
+Axis Bank,Personal Loan,Axis 24x7 Personal Loan,10.75,16.50,Fixed,1.50,2500,20000,1,5,2024-06-01,September 2024,https://www.axisbank.com/retail/loans/personal-loan
+Axis Bank,Auto Loan,Axis Prime Auto Loan,8.80,9.90,Fixed,0.50,2500,8000,1,7,2024-06-01,September 2024,https://www.axisbank.com/retail/loans/car-loan
+Kotak Mahindra Bank,Home Loan,Kotak Digi Home Loan,8.70,9.60,Repo Linked,0.50,2500,12000,1,30,2024-05-15,September 2024,https://www.kotak.com/en/personal-banking/loans/home-loan.html
+Kotak Mahindra Bank,Personal Loan,Kotak Quick Personal Loan,10.99,16.99,Fixed,1.50,2000,20000,1,5,2024-05-15,September 2024,https://www.kotak.com/en/personal-banking/loans/personal-loan.html
+Kotak Mahindra Bank,Auto Loan,Kotak Auto Finance,8.75,9.85,Fixed,0.50,2000,8000,1,7,2024-05-15,September 2024,https://www.kotak.com/en/personal-banking/loans/car-loan.html
+Bank of Baroda,Home Loan,Baroda Home Loan (EBR Linked),8.40,9.55,BRLLR,0.25,2000,8500,1,30,2024-07-01,September 2024,https://www.bankofbaroda.in/personal-banking/loans/home-loan
+Bank of Baroda,Personal Loan,Baroda Yoddha / Personal Loan,10.40,14.50,BRLLR,1.00,1000,10000,1,6,2024-07-01,September 2024,https://www.bankofbaroda.in/personal-banking/loans/personal-loan
+Bank of Baroda,Auto Loan,Baroda Car Loan,8.65,9.45,BRLLR,0.25,1000,5000,1,7,2024-07-01,September 2024,https://www.bankofbaroda.in/personal-banking/loans/vehicle-loan/baroda-car-loan
+Punjab National Bank,Home Loan,PNB Max-Saver Home Loan,8.45,9.60,RLLR,0.35,2000,10000,1,30,2024-06-01,September 2024,https://www.pnbindia.in/housing-loan.html
+Punjab National Bank,Personal Loan,PNB Sahyog Personal Loan,10.50,14.75,RLLR,1.00,1000,10000,1,5,2024-06-01,September 2024,https://www.pnbindia.in/personal-loans.html
+Canara Bank,Home Loan,Canara Housing Loan,8.50,9.70,RLLR,0.50,1500,10000,1,30,2024-06-01,September 2024,https://canarabank.com/housing-loan
+Canara Bank,Personal Loan,Canara Budget Personal Loan,10.65,14.25,RLLR,1.00,1000,10000,1,5,2024-06-01,September 2024,https://canarabank.com/personal-loan
+Union Bank of India,Home Loan,Union Awas Home Loan,8.50,9.75,EBLR,0.50,1500,10000,1,30,2024-07-01,September 2024,https://www.unionbankofindia.co.in/english/home-loans.aspx
+Union Bank of India,Personal Loan,Union Personal Loan,10.75,14.50,EBLR,1.00,1000,10000,1,5,2024-07-01,September 2024,https://www.unionbankofindia.co.in/english/personal-loans.aspx
